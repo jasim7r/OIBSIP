@@ -1,0 +1,75 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+ <title>Tribute to Paul Walker</title> 
+ <style> 
+ body { 
+ font-family: Arial, sans-serif; 
+ } 
+ #tribute-container { 
+ max-width: 600px; 
+ margin: 0 auto; 
+ } 
+ #image-container { 
+ display: flex; 
+ justify-content: space-between; 
+ margin-top: 20px; 
+ } 
+ .image { 
+ max-width: 45%; 
+ border-radius: 5px; 
+ box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5); 
+ } 
+ p { 
+ line-height: 1.5; 
+ } 
+ </style> 
+</head> 
+<body> 
+ <div id="tribute-container"> 
+ <h1>Tribute to Paul Walker</h1> 
+ <p> 
+ Paul Walker, the talented actor known for his role as Brian 
+O'Conner 
+ in the "Fast & Furious" movie franchise, was not only a 
+gifted artist 
+ but also a kind-hearted humanitarian. He touched the hearts 
+of many 
+ with his on-screen performances and his philanthropic 
+efforts. 
+ </p> 
+ <p> 
+ Beyond his success as an actor, Paul was actively involved in 
+various 
+ charitable initiatives. He founded the charity "Reach Out 
+Worldwide" 
+ to provide aid to communities affected by natural disasters. 
+His
+ dedication to helping others made him a beloved figure in and 
+outside 
+ of Hollywood. 
+ </p> 
+ <div id="image-container"> 
+ <img 
+src="https://th.bing.com/th/id/OIP.1wMSr1J1OJCKoD3x_NldpAHaKE?pid=ImgDet&
+rs=1" width="100" height="100"> 
+ 
+ </div> 
+ <p> 
+ Let us remember Paul Walker for his incredible talent, his 
+love for 
+ humanity, and his spirit of giving. Although he left us too 
+soon, 
+ his legacy continues to inspire acts of kindness and 
+compassion 
+ around the world. 
+ </p> 
+ <p> 
+ Thank you, Paul Walker, for leaving a lasting impact on the 
+lives of 
+ those who knew you and those who admired you from afar. 
+ </p> 
+ <p>- Your Admirers</p> 
+ </div> 
+</body> 
+</html> 
